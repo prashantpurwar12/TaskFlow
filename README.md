@@ -27,7 +27,7 @@ Top-bar notifications bell showcasing unread assignment alerts drawer along with
 
 ### 📊 Team spaces & Interactive Projects Grid
 Symmetrical forms with pipe dividers (`Name  |  Role`) and visual gradients illustrating completed task ratios (`%` + completion counts).
-![Team Spaces & Project Progress](./docs/screenshots/media__1779446130374.png)
+![Team Spaces & Project Progress](./docs/screenshots/team_spaces.png)
 
 ---
 
