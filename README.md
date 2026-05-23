@@ -33,7 +33,7 @@ Symmetrical forms with pipe dividers (`Name  |  Role`) and visual gradients illu
 
 ### 📅 Visual Task Calendar
 A mathematically aligned 42-day calendar rendering due dates dynamically, color-coded by priority (emerald for Low, amber for Medium, rose for High), with pointer triggers to manage task discussions.
-![Visual Task Calendar](./docs/screenshots/media__1779446303136.png)
+![Visual Task Calendar](./docs/screenshots/calendar.png)
 
 ---
 
