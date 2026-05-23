@@ -39,7 +39,7 @@ A mathematically aligned 42-day calendar rendering due dates dynamically, color-
 
 ### ⏱️ Collaborative Comments & Integrated Stopwatch Time Tracker
 Slide-out glassmorphic drawer containing chronological status discussions, custom user role tags, and an active stopwatch timer/manual time logger to track velocities.
-![Task Comments and Stopwatch Tracker](./docs/screenshots/media__1779516684979.png)
+![Task Comments and Stopwatch Tracker](./docs/screenshots/comments_timer.png)
 
 ---
 
