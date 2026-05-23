@@ -13,8 +13,8 @@ Beautiful, high-contrast dark-theme dashboard featuring dynamic visual completio
 ---
 
 ### 🛡️ Role-Based Access Control & User Directory
-Dedicated administrative dashboard where Admins can instantly promote or demote user roles (`Admin | Manager | Member`) through clean, opaque selection cards.
-![User Directory Roles Promotion](./docs/screenshots/media__1779442766495.png)
+Dedicated administrative directory and custom signup roles selector allowing team members to register directly as `Member`, `Manager`, or `Admin` organic accounts.
+![Role Selection on Signup](./docs/screenshots/auth_role_signup.png)
 
 ---
 
