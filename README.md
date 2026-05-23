@@ -8,7 +8,7 @@
 
 ### 🎨 Premium Slate Interface & Workspace
 Beautiful, high-contrast dark-theme dashboard featuring dynamic visual completion progress metrics, avatar overlapping piles, and clean grid layouts.
-![TaskFlow Glassmorphic Interface](./docs/screenshots/media__1779439627519.png)
+![TaskFlow Dashboard Interface](./docs/screenshots/dashboard.png)
 
 ---
 
