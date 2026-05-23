@@ -19,8 +19,9 @@ Dedicated administrative directory and custom signup roles selector allowing tea
 ---
 
 ### 🔔 Real-Time Notifications & Access Audit Feed
-Top-bar notifications bell with custom shaking keyframe animations coupled with an Admin-only live timeline of security and event logs.
-![Real-time Notifications and Audit Logs](./docs/screenshots/media__1779443052801.png)
+Top-bar notifications bell showcasing unread assignment alerts drawer along with a secure timeline tracking administrative events.
+![Real-time Notifications Drawer](./docs/screenshots/notifications.png)
+![Access Audit Logs Stream](./docs/screenshots/audit_logs.png)
 
 ---
 
